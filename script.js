@@ -4,6 +4,7 @@ const input = document.getElementById("user-input");
 const messages = document.getElementById("chat-messages");
 const now = new Date();
 
+//client_id
 const CLIENT_ID_STORAGE_KEY = "epis_client_id";
 
 // Options to customize the output
